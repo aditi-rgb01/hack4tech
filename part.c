@@ -16,5 +16,9 @@ int main()
     char section;
     printf("enter your section\n");
     scanf(" %c",&section);
+
+    int room number;
+    printf("enter your room number\n");
+    scanf("%d",&room number);
     
 }
